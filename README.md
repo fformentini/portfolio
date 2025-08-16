@@ -5,7 +5,7 @@
 
 ## Sobre o projeto
  
-Visite meu portfólio! <a href="https://formentiniportfolio.netlify.app/" target="_blank">Clique aqui</a>
+Visite meu projeto de portfólio v1! <a href="https://fformentini.github.io/portfolio/" target="_blank">Clique aqui</a>
 
 Este projeto de portfólio é uma demonstração do meu trabalho como desenvolvedor web. Utilizando HTML, CSS e JavaScript, criei uma interface elegante e responsiva que destaca minhas habilidades, projetos e experiência. O design limpo e moderno foi desenvolvido com foco na usabilidade e na apresentação eficaz do meu trabalho.
 
